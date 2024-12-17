@@ -1,11 +1,63 @@
-<h1 align="center">Hi there, I'm <a href="https://vk.com/d_e_n_s_a" target="_blank">mindale</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<!-- Приветствие -->
+<h1 align="center">Привет! 👋 Меня зовут mindale</h1>
+<h3 align="center">Я начинающий разработчик и исследователь технологий 🚀</h3>
 
-<!-- 
-<h1 align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHF0bzB5ZWM5MGNjMnAwdTV2MGptdWg0cjV2MDNrY3B6ZnR3N3BlZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PFsJGfU6e7QjF477ov/giphy.gif" height="200"></h1> -->
+<!-- Социальные ссылки -->
+<p align="center">
+  <a href="https://github.com/mindale/mindale">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="mailto:danilki.fg@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
-![mygif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHF0bzB5ZWM5MGNjMnAwdTV2MGptdWg0cjV2MDNrY3B6ZnR3N3BlZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PFsJGfU6e7QjF477ov/giphy.gif)
+---
+
+<!-- О себе -->
+### 🙋‍♂️ Немного обо мне:
+- 🔭 Сейчас работаю над **курсовыми работами**.
+- 🌱 Изучаю **UNIX системы** и углубляюсь в **DevOps разработку**.
+- 💬 Могу помочь с **Git**, **Python, C++** и начинающим **Java**.
+- ⚡ **Факт обо мне**: Люблю печеньки с молочком
+
+---
+
+### 🛠️ Мой стек технологий:
+
+<p align="left">
+  <!-- Python -->
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  </a>
+  <!-- C++ -->
+  <a href="https://isocpp.org/" target="_blank">
+    <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+  </a>
+  <!-- Linux -->
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+  </a>
+</p>
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Codea&pause=1000&color=F7F7F7&center=true&width=800&height=55&lines=This+is+my+git+and+you+can+check+my+repositories+with+my+code" alt="Typing SVG" /></a>
+---
+
+<!-- Статистика -->
+### 📊 Статистика профиля:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mindale&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats">
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mindale&theme=dark&hide_border=true" alt="GitHub Streak">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mindale&layout=compact&theme=dark&hide_border=true" alt="Top Languages">
+</p>
+
+---
+
+<!-- Контактная информация -->
+### 📫 Как связаться со мной:
+- **Email**: [danilki.fg@gmail.com](mailto:danilki.fg@gmail.com)
+- **GitHub**: [mindale](https://github.com/mindale/mindale)
+- **Telegram**: [Danilos](https://t.me/DaNeelos)
+---
